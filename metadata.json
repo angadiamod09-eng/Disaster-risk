@@ -1,0 +1,6 @@
+{
+  "name": "Disaster Risk Assessment System",
+  "description": "Assess environmental disaster risk and support preparedness with transparent rule-based scoring and decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
